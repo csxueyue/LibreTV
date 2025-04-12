@@ -1,5 +1,5 @@
 // 全局常量配置
-const PROXY_URL = 'https://crossorigin.me/';
+const PROXY_URL = 'https://proxyserver-virid.vercel.app/api/proxy?url=';
 const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
